@@ -1,2 +1,2 @@
-This is feibao's first test file for git.
+This is feibao's first test file for git practise.
 good good study
